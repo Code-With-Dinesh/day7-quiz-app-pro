@@ -21,4 +21,4 @@ A modern and interactive Quiz Application built using HTML, CSS, and JavaScript.
   ![Digital Clock](screenshot.png)
 
 ## 🌐 Live Demo
- 
+ https://code-with-dinesh.github.io/day7-quiz-app-pro/
