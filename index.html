@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App Pro</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="quiz-card">
+        <div class="header">
+          <h2>Quiz App</h2>
+          <span id="timer">10s</span>
+        </div>
+
+        <div class="progress">
+          <div id="progress-bar"></div>
+        </div>
+
+        <h3 id="question">Loading...</h3>
+
+        <div id="options"></div>
+
+        <div class="buttons">
+          <button onclick="prevQuestion()">⬅ Prev</button>
+          <button onclick="nextQuestion()">Next ➡</button>
+        </div>
+      </div>
+
+      <div id="result-card" class="hidden">
+        <h2>🎉 Completed!</h2>
+        <p>Your Score: <span id="score"></span></p>
+        <button onclick="restartQuiz()">Restart 🔁</button>
+      </div>
+    </div>
+
+    <script src="data/questions.js"></script>
+    <script src="assets/js/script.js"></script>
+  </body>
+</html>

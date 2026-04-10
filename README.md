@@ -1,2 +1,18 @@
-# day7-quiz-app-pro
-Modern Quiz App with timer and responsive UI using JavaScript
+# 🧠 Quiz App Pro
+
+A modern and interactive Quiz Application built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- ⏱ Timer-based questions
+- 📊 Progress tracking
+- ✅ Option selection highlight
+- 🔁 Restart quiz functionality
+- 📱 Responsive design
+- 🎨 Modern UI (Glassmorphism)
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
