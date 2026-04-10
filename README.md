@@ -16,3 +16,9 @@ A modern and interactive Quiz Application built using HTML, CSS, and JavaScript.
 - HTML5
 - CSS3
 - JavaScript
+
+ ## 📸 Preview
+  ![Digital Clock](screenshot.png)
+
+## 🌐 Live Demo
+ 
